@@ -10,7 +10,7 @@ These are the results from running all entries into the challenge on 10 cores of
 |  | 00:20.261 | UTF8 Channels | dotnet8 |  |  |  |
 |  | 02:45.024 | Simple | dotnet8 |  |  |  |
 |  | 01:59.834 | U8StringSimple | dotnet8 |  |  |  |
-|  | 0:13.095  | [gunnarmorling](https://github.com/gunnarmorling/1brc) | dotnet8 |  |  |  |
+|  | 0:13.095  | [buybackoff](https://github.com/buybackoff/1brc) | dotnet8 |  |  |  |
 |  | 00:10.961 | [link](https://github.com/gunnarmorling/1brc/blob/main/src/main/java/dev/morling/onebrc/CalculateAverage_thomaswue.java)| 21.0.1-graal | [Thomas Wuerthinger](https://github.com/thomaswue), [Quan Anh Mai](https://github.com/merykitty), [Alfonso² Peterssen](https://github.com/mukel) | GraalVM native binary |
 |  | 00:10.642 | [link](https://github.com/gunnarmorling/1brc/blob/main/src/main/java/dev/morling/onebrc/CalculateAverage_merykitty.java)| 21.0.1-open | [Quan Anh Mai](https://github.com/merykitty) |  |
 |  |  | [link](https://github.com/gunnarmorling/1brc/blob/main/src/main/java/dev/morling/onebrc/CalculateAverage_royvanrijn.java)| 21.0.1-graal | [Roy van Rijn](https://github.com/royvanrijn) |  |
